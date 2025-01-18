@@ -25,11 +25,11 @@
     },
     {
         "name": "Fluter",
-        "icon": "https://img.icons8.com/?size=100&id=pCvIfmctRaY8&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=pCvIfmctRaY8&format=png&color=000000"
     },
     {
         "name": "React Native",
-        "icon": "https://img.icons8.com/?size=100&id=123603&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=123603&format=png&color=000000"
     },
     {
         "name": "TailwindCSS",
@@ -41,7 +41,7 @@
     },
     {
         "name": "Angular",
-        "icon": "https://img.icons8.com/?size=100&id=71257&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=71257&format=png&color=000000"
     },
     {
         "name": "HTML5",
@@ -93,7 +93,7 @@
     },
     {
         "name": "Docker",
-        "icon": "https://img.icons8.com/?size=100&id=TkG10j-DmXkU&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=TkG10j-DmXkU&format=png&color=000000"
     },
     {
         "name": "Netlify",
@@ -101,11 +101,11 @@
     },
     {
         "name": "Figma",
-        "icon": "https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=zfHRZ6i1Wg0U&format=png&color=000000"
     },
     {
         "name": "Kubernetes",
-        "icon": "https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=cvzmaEA4kC0o&format=png&color=000000"
     },
     {
         "name": "Git VCS",
