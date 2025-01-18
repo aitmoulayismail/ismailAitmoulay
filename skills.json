@@ -28,8 +28,8 @@
         "icon": "https://img.icons8.com/?size=100&id=pCvIfmctRaY8&format=png&color=000000"
     },
     {
-        "name": "ChakraUI",
-        "icon": "https://img.icons8.com/color/48/000000/chakra-ui.png"
+        "name": "React Native",
+        "icon": "https://img.icons8.com/?size=100&id=123603&format=png&color=000000"
     },
     {
         "name": "TailwindCSS",
@@ -40,8 +40,8 @@
         "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
     },
     {
-        "name": "Sass",
-        "icon": "https://img.icons8.com/color/48/000000/sass.png"
+        "name": "Angular",
+        "icon": "https://img.icons8.com/?size=100&id=71257&format=png&color=000000"
     },
     {
         "name": "HTML5",
@@ -92,20 +92,20 @@
         "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
     },
     {
-        "name": "Heroku",
-        "icon": "https://img.icons8.com/color/48/000000/heroku.png"
+        "name": "Docker",
+        "icon": "https://img.icons8.com/?size=100&id=TkG10j-DmXkU&format=png&color=000000"
     },
     {
         "name": "Netlify",
         "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
     },
     {
-        "name": "DigitalOcean",
-        "icon": "https://img.icons8.com/ios-filled/48/0080FF/digitalocean.png"
+        "name": "Figma",
+        "icon": "https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000"
     },
     {
-        "name": "jQuery",
-        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+        "name": "Kubernetes",
+        "icon": "https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000"
     },
     {
         "name": "Git VCS",
