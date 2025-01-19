@@ -42,7 +42,7 @@
   {
     "name": "FitCoach MERN",
     "desc": "A fitness and nutrition platform offering personalized training programs, coaching sessions, progress tracking, detailed reports, and continuous follow-up for an optimized health journey.",
-    "image": "moulayfit",
+    "image": "/assets/images/projects/moulayfit.jpg",
     "category": "mern",
     "links": {
       "view": "https://moulayfit.netlify.app/",
